@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="158722" started-at="2021-01-08T20:23:44Z" finished-at="2021-01-08T20:26:23Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="158722" started-at="2021-01-08T20:23:44Z" finished-at="2021-01-08T20:26:23Z">
+      <class name="com.qa.SpiceJet.Test.FlightDetailPageTest">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.qa.SpiceJet.Test.FlightDetailPageTest@1e802ef9]" name="SetUp" is-config="true" duration-ms="37508" started-at="2021-01-09T01:53:44Z" finished-at="2021-01-09T01:54:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="verify_Student_Discount_Bookings()[pri:0, instance:com.qa.SpiceJet.Test.FlightDetailPageTest@1e802ef9]" name="verify_Student_Discount_Bookings" duration-ms="12259" started-at="2021-01-09T01:54:22Z" finished-at="2021-01-09T01:54:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Student_Discount_Bookings -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.qa.SpiceJet.Test.FlightDetailPageTest@1e802ef9]" name="TearDown" is-config="true" duration-ms="956" started-at="2021-01-09T01:54:34Z" finished-at="2021-01-09T01:54:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.qa.SpiceJet.Test.FlightDetailPageTest -->
+      <class name="com.qa.SpiceJet.Test.BookPageTest">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.qa.SpiceJet.Test.BookPageTest@7f010382]" name="SetUp" is-config="true" duration-ms="13657" started-at="2021-01-09T01:54:35Z" finished-at="2021-01-09T01:54:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="verify_clcikONOneWayRadioBtn()[pri:1, instance:com.qa.SpiceJet.Test.BookPageTest@7f010382]" name="verify_clcikONOneWayRadioBtn" duration-ms="142" started-at="2021-01-09T01:54:48Z" finished-at="2021-01-09T01:54:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_clcikONOneWayRadioBtn -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.qa.SpiceJet.Test.BookPageTest@7f010382]" name="TearDown" is-config="true" duration-ms="930" started-at="2021-01-09T01:54:49Z" finished-at="2021-01-09T01:54:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.qa.SpiceJet.Test.BookPageTest@7f010382]" name="SetUp" is-config="true" duration-ms="15318" started-at="2021-01-09T01:54:50Z" finished-at="2021-01-09T01:55:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="verify_oneway_trip_returndate_field_disabled()[pri:1, instance:com.qa.SpiceJet.Test.BookPageTest@7f010382]" name="verify_oneway_trip_returndate_field_disabled" duration-ms="196" started-at="2021-01-09T01:55:05Z" finished-at="2021-01-09T01:55:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_oneway_trip_returndate_field_disabled -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.qa.SpiceJet.Test.BookPageTest@7f010382]" name="TearDown" is-config="true" duration-ms="803" started-at="2021-01-09T01:55:05Z" finished-at="2021-01-09T01:55:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.qa.SpiceJet.Test.BookPageTest@7f010382]" name="SetUp" is-config="true" duration-ms="14813" started-at="2021-01-09T01:55:06Z" finished-at="2021-01-09T01:55:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="verify_SelectDeptCityBangAndArrivalAsPune()[pri:3, instance:com.qa.SpiceJet.Test.BookPageTest@7f010382]" name="verify_SelectDeptCityBangAndArrivalAsPune" duration-ms="2158" started-at="2021-01-09T01:55:21Z" finished-at="2021-01-09T01:55:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_SelectDeptCityBangAndArrivalAsPune -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.qa.SpiceJet.Test.BookPageTest@7f010382]" name="TearDown" is-config="true" duration-ms="764" started-at="2021-01-09T01:55:23Z" finished-at="2021-01-09T01:55:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.qa.SpiceJet.Test.BookPageTest@7f010382]" name="SetUp" is-config="true" duration-ms="14840" started-at="2021-01-09T01:55:24Z" finished-at="2021-01-09T01:55:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="verify_Select_dept_data_And_Adult_and_INR()[pri:4, instance:com.qa.SpiceJet.Test.BookPageTest@7f010382]" name="verify_Select_dept_data_And_Adult_and_INR" duration-ms="2801" started-at="2021-01-09T01:55:38Z" finished-at="2021-01-09T01:55:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Select_dept_data_And_Adult_and_INR -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.qa.SpiceJet.Test.BookPageTest@7f010382]" name="TearDown" is-config="true" duration-ms="809" started-at="2021-01-09T01:55:41Z" finished-at="2021-01-09T01:55:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.qa.SpiceJet.Test.BookPageTest@7f010382]" name="SetUp" is-config="true" duration-ms="12118" started-at="2021-01-09T01:55:42Z" finished-at="2021-01-09T01:55:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="verify_select_checkBoxForStudent()[pri:5, instance:com.qa.SpiceJet.Test.BookPageTest@7f010382]" name="verify_select_checkBoxForStudent" duration-ms="2598" started-at="2021-01-09T01:55:54Z" finished-at="2021-01-09T01:55:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_select_checkBoxForStudent -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.qa.SpiceJet.Test.BookPageTest@7f010382]" name="TearDown" is-config="true" duration-ms="1346" started-at="2021-01-09T01:55:57Z" finished-at="2021-01-09T01:55:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:com.qa.SpiceJet.Test.BookPageTest@7f010382]" name="SetUp" is-config="true" duration-ms="11582" started-at="2021-01-09T01:55:58Z" finished-at="2021-01-09T01:56:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="verify_Search_link()[pri:6, instance:com.qa.SpiceJet.Test.BookPageTest@7f010382]" name="verify_Search_link" duration-ms="12268" started-at="2021-01-09T01:56:10Z" finished-at="2021-01-09T01:56:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_Search_link -->
+        <test-method status="PASS" signature="TearDown()[pri:0, instance:com.qa.SpiceJet.Test.BookPageTest@7f010382]" name="TearDown" is-config="true" duration-ms="780" started-at="2021-01-09T01:56:22Z" finished-at="2021-01-09T01:56:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- com.qa.SpiceJet.Test.BookPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
